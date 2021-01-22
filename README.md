@@ -6,10 +6,10 @@ A Simple Tic Tac Toe application created using Angular 9 using Components and Bo
 ---
 ### Images for reference:
 <p align="center">
-<img src="https://user-images.githubusercontent.com/43499410/105494305-32a25200-5c80-11eb-9457-302dbfc122cd.png" width="450px" height="650px"/>
-<img src="https://user-images.githubusercontent.com/43499410/105494315-359d4280-5c80-11eb-80fe-8fda7d6d9d4b.png" width="450px" height="650px"/>
+<img src="https://user-images.githubusercontent.com/43499410/105494305-32a25200-5c80-11eb-9457-302dbfc122cd.png" width="500px" height="650px"/>
+<img src="https://user-images.githubusercontent.com/43499410/105494315-359d4280-5c80-11eb-80fe-8fda7d6d9d4b.png" width="500px" height="650px"/>
 <p/>
----
+--- <br/>
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
 
 ## Development server
