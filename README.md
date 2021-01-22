@@ -1,4 +1,4 @@
-# TicTacToeAngular
+# TicTacToe
 A Simple Tic Tac Toe application created using Angular 9 using Components and Boostrap4 styling <br/>
 
 
