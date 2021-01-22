@@ -5,9 +5,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 ### Images for reference:
+<p align="center">
 <img src="https://user-images.githubusercontent.com/43499410/105494305-32a25200-5c80-11eb-9457-302dbfc122cd.png" width="450px" height="650px"/>
 <img src="https://user-images.githubusercontent.com/43499410/105494315-359d4280-5c80-11eb-80fe-8fda7d6d9d4b.png" width="450px" height="650px"/>
-
+<p/>
 
 
 
